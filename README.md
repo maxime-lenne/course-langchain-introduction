@@ -43,5 +43,9 @@ et comprendre comment orchestrer des chaînes simples pour interagir avec des LL
 4. Lancez le notebook :
 
    ```bash
-   jupyter notebook
+   # Version Jupyter
+   jupyter notebook langchain.ipynb
+
+   # Version Marimo (alternative moderne)
+   marimo run langchain_marimo.py
    ```
