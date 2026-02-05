@@ -1,7 +1,9 @@
 ![LangChain](img/langchain.jpeg)
 
-Ce projet propose une introduction à l'utilisation de **LangChain**, une bibliothèque permettant de créer des applications basées sur des modèles de langage (LLMs).  
-Il est conçu pour découvrir les bases de LangChain et comprendre comment orchestrer des chaînes simples pour interagir avec des LLMs.
+Ce projet propose une introduction à l'utilisation de **LangChain**,
+une bibliothèque permettant de créer des applications basées sur des modèles de langage (LLMs).
+Il est conçu pour découvrir les bases de LangChain
+et comprendre comment orchestrer des chaînes simples pour interagir avec des LLMs.
 
 ## Objectifs pédagogiques
 
@@ -21,7 +23,7 @@ Il est conçu pour découvrir les bases de LangChain et comprendre comment orche
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/
+   git clone https://github.com/maxime-lenne/course-langchain-introduction
    cd introduction
    ```
 
