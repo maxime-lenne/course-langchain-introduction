@@ -209,7 +209,7 @@ def _(mo):
 
 @app.cell
 def _():
-    from langchain.prompts import ChatPromptTemplate
+    from langchain_core.prompts.prompts import ChatPromptTemplate
     return (ChatPromptTemplate,)
 
 
